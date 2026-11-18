@@ -32,6 +32,8 @@ This project demonstrates a simplified workflow for validating and analyzing gov
 
 ### **Project Architecture**
 
+![alt text](outputs/project.png)
+
 ### **Dataset**
 
 The project uses a simulated bond yield dataset and the purpose is to demonstrate end-to-end workflow for a financial market analytics.
